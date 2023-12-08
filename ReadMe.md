@@ -15,3 +15,6 @@ There were a number of different techniques used in the data gathering:
 
 ### Countries studied
 <code style="color : blue">United States, Great Brittan, France, Germany, Canada</code>
+
+
+![You can see the final graph here:](https://github.com/AxisMeetsWorld/Oregon_National_Europe_college/blob/main/Final%20Graph.png)

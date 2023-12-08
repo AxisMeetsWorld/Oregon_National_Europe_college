@@ -18,3 +18,5 @@ There were a number of different techniques used in the data gathering:
 
 
 ![You can see the final graph here:](https://github.com/AxisMeetsWorld/Oregon_National_Europe_college/blob/main/Final%20Graph.png)
+
+<code style="color : purple">*Please note that the values for all geographics outside of Oregon are based on out of state tuition.*</code>
